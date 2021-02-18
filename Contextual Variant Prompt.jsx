@@ -1,1 +1,0 @@
-﻿app.selection[0].opentypeFeatures=[["cv"+("00"+prompt("character variant","00")).slice(-2),1]];
