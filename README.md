@@ -1,4 +1,4 @@
-# Character-Variant-Java-Script-for-Indesing
+# Character-Variant-Java-Script-for-Indesign
 This script make possible access "CVxx" features in Indesign
 
 The second script has a prompt.
